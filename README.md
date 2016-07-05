@@ -10,7 +10,8 @@ platform: vs 2015 community
 执行文件为debug目录下的Treepad.exe  
 You can find the executable file in the debug directory
 
-效果预览图如下：
+效果预览图如下：  
+The result of the project is as below:
 
 
 
