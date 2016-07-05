@@ -12,12 +12,14 @@ You can find the executable file in the debug directory
 
 效果预览图如下：  
 The result of the project is as below:
-
-
-
-
-
-
+![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/1.png)  
+  
+![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/2.png)  
+  
+![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/3.png)  
+  
+![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/1.png)  
+  
 基本操作:  
 本软件大部分操作由工具栏完成  
 most operation of this software is based on the tool bar  
