@@ -20,7 +20,7 @@ The result of the project is as below:
   
 ![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/1.png)  
   
-基本操作:  
+关于基本操作:  
 本软件大部分操作由工具栏完成  
 most operation of this software is based on the tool bar  
 I initialized the project as a MFC static library  
@@ -59,7 +59,8 @@ I want this operation will be revocable, which is also not implemented by now as
 Click the last button which means "set", here you can change some important parameter to form a tree. But I am very sorry to say that
 this function has not been implemented by now, so please don't click it at now. However, I am sure that it will be implemented soon.
 本软件的优点：操作简便，可以直接另存为图片  
-The advantage of the software is that it is easy in operation, and can keep to picture directly.   
+The advantage of the software is that it is easy in operation, and can keep to picture directly.  
+  
 待实现的功能：  
 1.设置参数菜单需要实现（调节位置、迭代次数、缩放比例、树干直径及树干直径随迭代次数减小的比例） 
 2.实现LS文法绘图：  
