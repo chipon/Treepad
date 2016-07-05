@@ -11,7 +11,7 @@ platform: vs 2015 community
 You can find the executable file in the debug directory
 
 效果预览图如下：  
-The result of the project is as below:
+The result of the project is as below:  
 ![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/1.png)  
   
 ![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/2.png)  
