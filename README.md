@@ -1,5 +1,7 @@
 # Treepad
-Treepad is a graphic software for two-dimension tree simulation, this project may implements two main methods for drawing a tree----iteration method and LS method.  
+Treepad is a graphic software for two-dimension tree simulation, this project may implements two main methods for drawing a tree----iteration method and LS method (LS method hasn't been implement to now).  
+  
+项目说明：  
 Declaration:  
 The language may be all Chinese, this is because my VS version use Chinese as default  
 If possible, I may remake a English project  
@@ -8,8 +10,8 @@ But that may take some time, can anyone help me to make this job done? (^_^)
 This is a project based on MFC project.   
 platform: vs 2015 community  
 执行文件为debug目录下的Treepad.exe  
-You can find the executable file in the debug directory
-
+You can find the executable file in the debug directory  
+  
 效果预览图如下：  
 The result of the project is as below:  
 ![image](https://github.com/chipon/Treepad/blob/master/shot%20preview/1.png)  
@@ -61,7 +63,7 @@ this function has not been implemented by now, so please don't click it at now. 
 本软件的优点：操作简便，可以直接另存为图片  
 The advantage of the software is that it is easy in operation, and can keep to picture directly.  
   
-待实现的功能：  
+本软件待实现的功能：  
 1.设置参数菜单需要实现（调节位置、迭代次数、缩放比例、树干直径及树干直径随迭代次数减小的比例） 
 2.实现LS文法绘图：  
 预期目标：设置LS编辑的图标或菜单选项，点击后弹出对话框写下初始公理和变换规则，通过设置对话框调节长度、角度、位置，
