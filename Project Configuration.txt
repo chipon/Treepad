@@ -1,0 +1,7 @@
+These are some basic message of the project:
+
+Project name: Treepad
+Develop platform: windows 8.1
+Develop environment: visual studio 2015 Community
+Project type: MFC
+Use static library: True
