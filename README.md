@@ -8,12 +8,19 @@ But that may take some time, can anyone help me to make this job done? (^_^)
 This is a project based on MFC project.   
 platform: vs 2015 community  
 执行文件为debug目录下的Treepad.exe  
-You can find the executable file in the debug directory  
+You can find the executable file in the debug directory
+
+效果预览图如下：
+
+
+
+
+
+
+基本操作:  
 本软件大部分操作由工具栏完成  
 most operation of this software is based on the tool bar  
 I initialized the project as a MFC static library  
-
-基本操作:  
 basic operation:  
 首先点击工具栏上的一个树形的图标（提示信息为“画树”），此时进入绘图状态，按住CTRL键不放可以画出垂直的直线  
 Firstly click the tree-shape icon on the toolbar, you can see the mouse turn cross-shaped, that mean it gets into draw statu.  
